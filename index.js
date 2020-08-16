@@ -4,5 +4,5 @@ const testVar = "hi"
 
 document.querySelector("main#main").remove();
 
-const newHeader = document.createElement(hi);
+const newHeader = document.createElement(h1);
 newHeader.id = "victory"
