@@ -4,4 +4,4 @@ const testVar = "hi"
 
 document.querySelector("main#main").remove();
 
-const newHeader = document.create(hi)
+const newHeader = document.create(hi);
